@@ -7,6 +7,8 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=dhirajaryaa&show_icons=true&theme=tokyonight)<br/>
 
+[![wakatime](https://wakatime.com/badge/user/17dd1e2d-e324-4121-a8e1-f433c57898fd/project/aff453e6-d416-4f38-b599-71b069f7c8c4.svg)](https://wakatime.com/badge/user/17dd1e2d-e324-4121-a8e1-f433c57898fd/project/aff453e6-d416-4f38-b599-71b069f7c8c4)
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

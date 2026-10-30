@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Dhiraj Arya — full-stack engineer</title>
+  <desc id="desc">A warm editorial banner with the name Dhiraj Arya, the line “I build products, end to end.”, and a terminal card listing his stack and current work.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#DED6C6" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="480" rx="0"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="480" fill="#F7F2E7"/>
+    <rect width="1280" height="480" fill="url(#grid)" opacity="0.55"/>
+
+    <!-- editorial index marks -->
+    <text x="80" y="64" fill="#6F695D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3.2">PRODUCT ENGINEER / 2026</text>
+    <text x="1200" y="64" fill="#6F695D" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3.2">PATNA, IN / UTC+5:30</text>
+    <line x1="80" y1="82" x2="1200" y2="82" stroke="#DED6C6" stroke-width="1"/>
+
+    <!-- name -->
+    <text x="74" y="205" fill="#121210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-5.5">Dhiraj Arya</text>
+
+    <!-- positioning -->
+    <text x="80" y="270" fill="#121210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" letter-spacing="-0.8">I build products, <tspan font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34">end to end.</tspan></text>
+    <text x="80" y="308" fill="#6F695D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400">TypeScript, Postgres, and AI APIs — designed, built, and shipped.</text>
+
+    <!-- status -->
+    <g transform="translate(80, 374)">
+      <rect x="0" y="0" width="244" height="38" rx="19" fill="none" stroke="#DED6C6" stroke-width="1"/>
+      <circle cx="22" cy="19" r="4.5" fill="#2F9E44"/>
+      <text x="38" y="24" fill="#121210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.2">OPEN TO ONSITE / REMOTE</text>
+    </g>
+    <text x="350" y="398" fill="#6F695D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Full-stack / AI engineering</text>
+
+    <!-- terminal card -->
+    <g transform="translate(788, 116)">
+      <rect width="412" height="268" rx="18" fill="#141412" stroke="#DED6C6" stroke-opacity="0.35"/>
+      <circle cx="24" cy="24" r="5" fill="#F2C14E" opacity="0.95"/>
+      <circle cx="42" cy="24" r="5" fill="#F7F2E7" opacity="0.55"/>
+      <circle cx="60" cy="24" r="5" fill="#F7F2E7" opacity="0.3"/>
+      <line x1="0" y1="46" x2="412" y2="46" stroke="#F7F2E7" stroke-opacity="0.12"/>
+      <text x="28" y="82" fill="#F2C14E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">$ whoami</text>
+      <text x="28" y="108" fill="#F7F2E7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">self-taught engineer</text>
+      <text x="28" y="146" fill="#F2C14E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">$ stack</text>
+      <text x="28" y="172" fill="#F7F2E7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">typescript · next.js · postgres</text>
+      <text x="28" y="210" fill="#F2C14E" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">$ currently</text>
+      <text x="28" y="236" fill="#F7F2E7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">building hackmeet + blogdrop</text>
+      <rect x="28" y="254" width="9" height="2" fill="#F2C14E"/>
+    </g>
+
+    <!-- subtle corner mark -->
+    <text x="1200" y="440" fill="#6F695D" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2.2">GITHUB.COM/DHIRAJARYAA</text>
+  </g>
+</svg>
